@@ -54,14 +54,6 @@ In this repository, I am documenting my learning journey step-by-step with:
 
 ---
 
-# 📂 Repository Structure
-
-linear-algebra-foundations/
-
-├── day1_linear_algebra_basics.ipynb
-├── README.md
-
----
 
 # 🚀 Upcoming Topics
 
